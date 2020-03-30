@@ -6,9 +6,9 @@
 A simple <span style="font-family: Hacked;
     ">Watch_Dogs</span> theme for plymouth, with encryption unlocking support.
 
-![Animation Step 1](animation-0005.png "Animation Example 1 (Moving bars)")
-![Animation Step 2](animation-0011.png "Animation Example 1 (Boot Sequence text)")
-![Animation Step 3](animation-0065.png "Animation Example 1 (ctOS Logo)")
+![Animation Step 1](img/animation-0005.png "Animation Example 1 (Moving bars)")
+![Animation Step 2](img/animation-0011.png "Animation Example 1 (Boot Sequence text)")
+![Animation Step 3](img/animation-0065.png "Animation Example 1 (ctOS Logo)")
 
 The theme is derived from the plymouth two-step spinner default theme and is very dark and simple.
 
