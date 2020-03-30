@@ -90,10 +90,7 @@ After that you can install this theme and the following steps show you how:
 That's it.
 
 
-## Font
+<h2 style="font-family: Hacked; src: url(https://hackedfont.com/HACKED.ttf);"> The awesome font</h2>
 
 The Watch_Dogs font I used in this README and this theme is called [Watch_Dogs font](https://watchdogsfont.com) by [David Libeau](https://davidlibeau.fr/)
 
-<style>
-    src: url(https://hackedfont.com/HACKED.ttf);
-</style>
