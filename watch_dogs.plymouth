@@ -4,7 +4,7 @@ Description=A simple Watch_Dogs theme
 ModuleName=two-step
 
 [two-step]
-ImageDir=/usr/share/plymouth/themes/watch_dogs
+ImageDir=/usr/share/plymouth/themes/watch_dogs/img
 HorizontalAlignment=.5
 VerticalAlignment=.5
 TransitionDuration=5
