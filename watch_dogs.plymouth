@@ -1,0 +1,12 @@
+[Plymouth Theme]
+Name=Watch_Dogs
+Description=A simple Watch_Dogs theme
+ModuleName=two-step
+
+[two-step]
+ImageDir=/usr/share/plymouth/themes/watch_dogs
+HorizontalAlignment=.5
+VerticalAlignment=.5
+TransitionDuration=5
+BackgroundStartColor=0x000000
+BackgroundEndColor=0x000000
